@@ -1,0 +1,40 @@
+16.7.2024
+
+TIMELINE
+
+Gantt Chart
+- Landing page
+- Front end "Excluding landing"
+- Dashboard Admin
+- Dashboard Sellers
+- Dash board Customer
+
+In gantt chart, never put exact things.
+
+Project Timeline
+-start 17jul
+- 1-3aug end
+- 5aug 
+- 6-7aug
+- 8aug
+
+
+Project Requirement!
+-16 Page total minimum
+-4 Page Mobile minimum
+-12 Page Desktop
+
+Marking criteria
+1.Proper Navigation
+  -if you don't have proper navigation, you gonna lose mark. logo, or click me, or else
+2.Forms
+  -Forms. Must be functional forms and button
+3.Meeting page number criteria
+  -minimum page criteria you gonna lose mark
+4.Matching prototype with wireframe
+  -matching the prototype with wireframe. you gonna lose mark if don't match
+5.collabration mark. if prototype not working, no team member comment to fix, all team will lose mark.
+
+Bonus point
+1. Pretty design
+2. Pretty animation

@@ -1,0 +1,25 @@
+Dashboard
+
+ADMIN
+- User management
+	- manage user, create, delete user
+
+- Marketing
+- Promotions, analytics,
+
+Sales
+	-statistic, Inventory, Pricing
+
+
+USER
+Seller
+- Product managemen
+- report
+- Inventory management
+- user details
+
+
+Customer
+- basket
+- report
+- user details

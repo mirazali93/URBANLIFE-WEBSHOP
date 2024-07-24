@@ -1,0 +1,26 @@
+1- SELL PHYSICAL PRODUCT (Direct sell to customer)
+
+Must have
+1. Product Page - User can add/remove product
+2. Sales Report Page - User can see sales performance
+3. Message/chat box - where customer can contact the user
+4. Asset/Inventory Management - Stock keeping
+5. Product Processing - Status (Packing, Drop Off, Delivery, Delivered)
+
+_________________________________________________________________________
+
+2- Middle Man (Pet Adoption, Therapy, Car Rental, Starbuck, Zuss Coffee)
+
+Must Have
+1. User Management
+2. Customer Management
+3. Report Page
+
+
+_________________________________________________________________________
+
+3. Brand Awareness 
+
+Dynamic Website
+1. New Version, Promotion, Events
+2. Report page
